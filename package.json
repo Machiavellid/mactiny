@@ -1,0 +1,14 @@
+{
+  "name": "@machiavellid/mactiny",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "Machiavellid/mactiny",
+  "main": "index.js",
+  "keywords": [
+    "mactiny",
+    "npm",
+    "package",
+    "Machiavellid"
+  ]
+}
